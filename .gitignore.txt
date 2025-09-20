@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pkl
+*.pyc
+venv/
+.env
+
+# Java
+/target/
+/.idea/
+/*.iml
+
+# Node
+/node_modules/
+/build/
+
+# Misc
+*.log
+.DS_Store
